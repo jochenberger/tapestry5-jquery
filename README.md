@@ -1,4 +1,4 @@
-# Tapestry 5 jQuery integration Module - 3.1.0
+# Tapestry 5 jQuery integration Module - 3.3.3
 
 ## Demo and documentation
 http://tapestry5-jquery.com/
@@ -16,6 +16,8 @@ http://tapestry5-jquery.com/
 - Pablo NUSSEMBAUM as bauna
 - Alexander OBLOVATNIY
 - Stéfanie DUPREY as Nephtys
+- Michael Aspetsberger as maspetsberger
+- Dragan Sahpaski as dragansah
 
 ##Hosting
 Christophe Furmaniak 	
@@ -24,10 +26,14 @@ Christophe Furmaniak
 http://groups.google.com/group/tapestry5-jquery
 
 ## Changelog
+- 3.3.1 : add GMap component
+- 3.3.0 : Update to Tapestry 5.3.3
 - 3.2.0 : Update to Tapestry 5.3.2
-- 3.1.0-SNAPSHOT : Update to Tapestry 5.3.1
+- 3.1.0 : Update to Tapestry 5.3.1
 - 3.0.0 : Switch to Tapestry 5.3 (new JavaScript Layer)
           add Components : Gallery
+- 2.6.6 : handle datatable's ajax mode for server-side pagination
+- 2.6.2 : more work on client side validation
 - 2.6.1 : improve Validation Mecanism and DataTable Component
 		  add Components : InPlaceEditor, Draggable
 		  add Mixins : ZoneRefresh, ZoneDroppable 
